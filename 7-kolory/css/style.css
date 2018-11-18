@@ -1,0 +1,25 @@
+body{
+    background-color: yellow;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.predefined-colors{
+    background-color: darkcyan;
+}
+
+.hexadecimal{
+    background-color: #000;
+}
+
+.rgb{
+    background-color: rgb(158, 71,22);
+}
+
+
+
+
