@@ -1,0 +1,41 @@
+p.before::before{
+    content: "* before ";
+    color: red;
+}
+
+p.before::after {
+    content: "* after";
+    color: red;
+}
+
+p.before:hover {
+    color:greenyellow;
+}
+.pole-tekstowe:focus {
+    background-color: limegreen;
+}
+
+.lista li:last-child {
+    background-color: pink;
+}
+
+.lista li:first-child {
+    background-color: pink;
+}
+
+.lista li:nth-child(4) {
+    background-color: aquamarine;
+}
+.lista li:nth-child(even){
+    background-color: mediumvioletred;
+}
+
+.lista li:nth-child(2n+3){
+    background-color: coral;
+}
+
+.lista li:nth-child(odd){
+    background-color: yellow;
+}
+
+
