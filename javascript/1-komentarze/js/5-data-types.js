@@ -14,3 +14,9 @@ console.log(typeof stringNapis);
 
 let prawdaCzyFalsz = true;
 console.log(typeof prawdaCzyFalsz);
+
+// --
+
+let undefinedtype;
+let nullType = null;
+let zero = 0;
