@@ -29,6 +29,7 @@ let domKlaudii = {
         }
 
         opiszOsobe () {
+            // setInterval( ())
             console.log("Nazywam sie: "+this.name+" "+this.surname);
         }
     }
